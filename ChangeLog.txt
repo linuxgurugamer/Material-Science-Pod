@@ -1,0 +1,10 @@
+Changelog
+
+V2.0.0
+	Adoption by Linuxgurugamer
+	Renamed part to MSP-3000a to avoid conflicts with the existing MSP-3000
+	Changed mass to 0.1
+	Renamed mod directory 
+	Merged in CareerPatch
+	Made tags the same as the Material Science Bay
+	Increased the costs

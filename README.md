@@ -1,5 +1,5 @@
 # Material-Science-Pod
-MSP-3000 Material Science Pod
+MSP-3000a Material Science Pod
 
 Requires ModuleManager
 
