@@ -1,12 +1,12 @@
 {
   "NAME": "Material-Science-Pod",
-  "URL": "http://ksp.spacetux.net/avc/Material-Science-Pod",
-  "DOWNLOAD": "https://github.com/linuxgurugamer/Material-Science-Pod/releases",
+  "URL": "http://ksp.spacetux.net/avc/MSP3000a.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/Material-Science-Pod/releases",  
   "VERSION": {
     "MAJOR": 2,
     "MINOR": 0,
     "PATCH": 0,
-    "BUILD": 0
+    "BUILD": 1
   },
   "KSP_VERSION": {
     "MAJOR": 1,
