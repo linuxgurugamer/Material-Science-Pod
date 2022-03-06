@@ -1,5 +1,9 @@
 Changelog
 
+2.0.0.2
+	Thanks to github user @AtomikkuSan for this:
+		Updated description and credit
+
 2.0.0.1
 	updated URL in .version file with correct name
 
