@@ -1,5 +1,9 @@
 Changelog
 
+2.0.0.4
+	Fixed error in version file, where the MIN version was too high
+	Updated version file to use github for new version info
+	
 2.0.0.3
 	iAdded ModuleCargoPart & updated author
 
